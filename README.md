@@ -9,11 +9,16 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
 ## Skills
 - **Personal Skills**
 - **Programming Languages**: [List of Programming Languages, e.g., Python, JavaScript, etc.]
-- **Frameworks**: [List of Frameworks, e.g., React, Django, etc.]
-- **Tools**: [List of Tools, e.g., Git, Docker, etc.]
-- **Databases**: [List of Databases, e.g., MySQL, PostgreSQL, etc.]
 
 ---
+##Tools
+
+
+
+
+
+---
+
 
 ## Experience
 
