@@ -64,7 +64,7 @@ I am a [Your Job Title] with a passion for [Your Interests, e.g., software devel
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
 - **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **LinkedIn**: [(https://www.linkedin.com/in/liam-tweddle-965b24272/)]
 
 ---
 
