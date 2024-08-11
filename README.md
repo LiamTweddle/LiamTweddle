@@ -7,8 +7,8 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
 ---
 
 ## Skills
-- **Personal Skills**
-- **Programming Languages**: [List of Programming Languages, e.g., Python, JavaScript, etc.]
+-- **Personal Skills**
+-- **Programming Languages**: [List of Programming Languages, e.g., Python, JavaScript, etc.]
 
 ---
 
