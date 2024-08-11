@@ -61,11 +61,9 @@ I am a [Your Job Title] with a passion for [Your Interests, e.g., software devel
 
 ## Contact Me
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
+- **Email**: Liamtweddle2004@gmail.com
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [(https://www.linkedin.com/in/liam-tweddle-965b24272/)]
 
----
+- **LinkedIn**: (https://www.linkedin.com/in/liam-tweddle-965b24272/)
 
-_Thank you for visiting my portfolio!_
+
