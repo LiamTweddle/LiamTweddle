@@ -31,9 +31,6 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
 
 ## Contact Me
 
-- **Email**: Liamtweddle2004@gmail.com
-
-
-- **LinkedIn**: (https://www.linkedin.com/in/liam-tweddle-965b24272/)
+<a href="https://www.linkedin.com/in/liam-tweddle-965b24272/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
