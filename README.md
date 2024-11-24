@@ -33,7 +33,7 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
 
 ---
 
-##Certifications
+## Certifications
 
 
 ---
