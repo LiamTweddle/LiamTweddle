@@ -49,7 +49,7 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
 ### [EE]
 **Role**: [Customer Service Advisor (Mobile Billing)]
 **Duration**: [January 2024 - May 2024]
-- **Achievements**: Brief bullet points of what you achieved in this role.
+- **Description**: During my time at EE, I provided phone-based support to customers, assisting with queries and billing issues. This role helped me refine my customer service skills and boosted my confidence in tackling new challenges.
 
 ---
 
