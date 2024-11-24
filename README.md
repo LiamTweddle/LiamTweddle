@@ -16,7 +16,7 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
                 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                                               |                            |
+|  Networking                                   |                            |
 |                                               |                            |
 |                                               |                            |
 |                                               |                            |
