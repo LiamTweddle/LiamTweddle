@@ -44,7 +44,9 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
 ### [Draeger Safety LTD]
 **Role**: [IT Apprentice]
 **Duration**: [June 2022 - March 2023]
-- **Achievements**: Brief bullet points of what you achieved in this role.
+- **Description**: In this role, I supported clients around the UK with hardware and software support while collaborating on infrastructure projects within my team.
+- This role allowed me to learn the basics of networking, servers, and creating user databases.
+
 
 ### [EE]
 **Role**: [Customer Service Advisor (Mobile Billing)]
