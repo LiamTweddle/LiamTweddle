@@ -2,9 +2,7 @@
 
 
 ## About Me
-I am an IT worker with a passion for cybersecurity and learning technologies. I have 1 year of experience in the IT job sector with a strong education in computer science, right now I am studying to gain a certification in cybersecurity through a course I have undertaken by UDEMY called CompTIA Security+ (SY0-701) Bootcamp. My objective is to enter the field of cybersecurity and climb my way up the career ladder, maybe one day starting my own cybersecurity business.
 
----
 ## Programming Languages
 
 
@@ -16,7 +14,7 @@ I am an IT worker with a passion for cybersecurity and learning technologies. I 
                 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  Networking                                   |                            |
+|                                               |                            |
 |                                               |                            |
 |                                               |                            |
 |                                               |                            |
